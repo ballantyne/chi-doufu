@@ -1,0 +1,30 @@
+{
+  "name": "chi-doufu",
+  "version": "1.3.3",
+  "description": "",
+  "main": "build/index.js",
+  "dependencies": {
+    "cantonese": "0.0.0",
+    "contains-chinese": "^1.0.0",
+    "lingua-han-cantonese": "0.0.1",
+    "nseg": "^0.0.8",
+    "pinyin": "^2.9.0",
+    "segment": "^0.1.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.5",
+    "gulp": "^4.0.2",
+    "gulp-mocha": "^7.0.1",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-tslint": "^8.1.4",
+    "gulp-typescript": "^5.0.1",
+    "mocha": "^6.2.0",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "Scott Ballantyne",
+  "license": "MIT"
+}
