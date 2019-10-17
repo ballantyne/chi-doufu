@@ -71,6 +71,19 @@ describe('parameterize', () => {
     If you want to improve the functionality you should make a pull request to the segment 
     npm module.  I only know a few words in cantonese so I can't say whether that functionality 
     works well.  If you speak cantonese and the test results above make no sense please tell me.
+    
+    The sentences I used in the tests are not about me.  At least I don't think that they are.  
+    It is always interesting to learn new things about myself.  Sorry if that was not immediately 
+    understandable.  I was juxtaposing ideas and trying to make clear that there seems to be a 
+    double standard.  I guess no matter what I write people are going to decide for themselves 
+    what I mean.  Seems like you need to know the context to understand why it seems like there
+    are different standards for how justice is applied.  In one situation, the protestors are 
+    asking for representation from their elected officials and to have their justice system
+    remain autonomous.  In the other situation, the deputy director of public security bureau's 
+    son just ran over a little kid with an SUV.  I am open to constructive criticism on this idea.  
+    I don't consider myself the originator of this particular insight, but it seems to describe 
+    what I see going on.  I am sure their are many examples to consider.  I'm pretty sure I have 
+    never backed over anyone with any type of vehicle.  I think that I would remember that happening.
   */
   
   tests.forEach((test) => {
